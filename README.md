@@ -1,0 +1,2 @@
+# aaibot
+run ai bot
