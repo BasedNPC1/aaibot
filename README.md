@@ -1,2 +1,0 @@
-# aaibot
-run ai bot
